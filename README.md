@@ -1,3 +1,3 @@
-This is my frist Git Repository
+This is my frist Git repository
 <br>
-Author-Manisha Mehta
+Author- Manisha Manisha
